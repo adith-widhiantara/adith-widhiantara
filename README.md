@@ -1,6 +1,6 @@
 ### Hi there 👋, Aditya S. Widhiantara in here
 #### Laravel's enthusiast
-I'm a guy that can code and code, but internet makes me can do anything
+I'm an individual proficient in programming and continuously honing my skills, however, the presence of the internet empowers me to accomplish limitless possibilities.
 
 Skills: PHP / LARAVEL / HTML / CSS / JS
 
